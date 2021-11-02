@@ -1,0 +1,39 @@
+body{
+     background-image: url(img/Batman2.jfif);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     flex-wrap: wrap;
+     display: flex;
+}
+.box{
+     width: 250px;
+     height: 70px;
+     margin: 860px;
+     margin-top: 60px;
+     display: flex;
+     flex-wrap: wrap;
+     position: absolute;
+     opacity: 0.5;
+}
+p{
+     color: aliceblue;
+}
+.button{
+     width: 250px;
+     height: 50px;
+     margin: 400px;
+     margin-top: 60px;
+     display: flex;
+     flex-wrap: wrap;
+     position: absolute;
+     font-weight: bold;
+     color:rgb(238, 14, 14);
+     opacity: 0.2;
+     cursor: pointer;
+}
+
